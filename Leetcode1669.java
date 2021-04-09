@@ -29,5 +29,9 @@ public class Leetcode1669 {
         headNode=rightNode.next;
         return leftNode;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
 
