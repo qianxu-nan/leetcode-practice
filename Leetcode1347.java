@@ -25,7 +25,7 @@ public class Leetcode1347 {
         String s1="leetcode";
         String s2="practice";
         minSteps(s1,s2);
-        System.out.println(minSteps(s1,s2));
+
 
     }
 }
